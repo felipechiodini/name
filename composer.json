@@ -1,11 +1,11 @@
 {
-    "name": "felipechiodini/cpf",
+    "name": "felipechiodini/name",
     "description": "domain class for handle names",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Felipechiodini\\Cpf\\": "src/"
+            "Felipechiodini\\Name\\": "src/"
         }
     },
     "authors": [
